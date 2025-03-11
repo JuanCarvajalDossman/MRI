@@ -1,3 +1,3 @@
 # MRI
 
-Basic SCripst for MRI and metadata reading 
+Basic Scripst for MRI and metadata reading 
